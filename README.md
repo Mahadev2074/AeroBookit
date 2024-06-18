@@ -22,7 +22,8 @@ Once you have Node.js and MongoDB installed on your computer,
 
 #### Clone or download this repository.
 ```sh
-git clone https://github.com/Mahadev2074/Airline-Management-System.git
+git clone https://github.com/Mahadev2074/AeroBookit.git
+
 ```
 
 #### Change the folder and Install dependencies.
