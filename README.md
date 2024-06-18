@@ -28,7 +28,7 @@ git clone https://github.com/Mahadev2074/AeroBookit.git
 
 #### Change the folder and Install dependencies.
 ```sh
-cd avian
+cd AeroBookit
 npm install
 ```
 
